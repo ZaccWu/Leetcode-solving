@@ -9,3 +9,4 @@ The links are as follows:
 * [104 Maximum Depth of Binary Tree](https://tinky2013.github.io/2018/02/01/Leetcode-104-Maximum-Depth-of-Binary-Tree/)
 * [111 Minimum Depth of Binary Tree](https://tinky2013.github.io/2018/02/04/Leetcode-111-Minimum-Depth-of-Binary-Tree/)
 * [496 Next Great Element I](https://tinky2013.github.io/2018/05/30/Leetcode-496-Next-Great-Element-I/)
+* [621 Task Scheduler](https://tinky2013.github.io/2018/07/07/Leetcode-621-Task-Scheduler/)
