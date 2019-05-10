@@ -28,6 +28,11 @@ The solution I already have:
 |66|Plus One|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0066%20Plus%20One.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0066%20Plus%20One.py)|
 |83|Remove Duplicates from Sorted List|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0083%20Remove%20Duplicates%20from%20Sorted%20List.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0083%20Remove%20Duplicates%20from%20Sorted%20List.py)|
 |86|Partition List|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0086%20Partition%20List.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0086%20Partition%20List.py)|
+|94|Binary Tree Inorder Traversal|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0094%20Binary%20Tree%20Order%20Traversal.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0094%20Binary%20Tree%20Inorder%20Traversal.py)|
+|100|Same Tree|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0100%20Same%20Tree.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0100%20Same%20Tree.py)|
+|101|Symmetric Tree|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0101%20Symmetric%20Tree.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0101%20Symmetric%20Tree.py)|
+|102|Binary Tree Level Order Traversal|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0102%20Binary%20Tree%20Level%20Order%20Traversal.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0102%20Binary%20Tree%20Level%20Order%20Traversal.py)|
+|104|Maximum Depth of Binary Tree|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0104%20Maximum%20Depth%20of%20Binary%20Tree.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0104%20Maximum%20Depth%20of%20Binary%20Tree.py)|
 
 
 
