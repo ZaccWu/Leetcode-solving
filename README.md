@@ -16,7 +16,6 @@ The solution I already have:
 
 |Index|Name|Code|Blog Link|
 |-|-|-|-|
-
 |1|Two Sum|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0001%20Two%20Sum.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0001%20Two%20Sum.py)|.|
 |7|Reverse Integer|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0007%20Reverse%20Integer.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0007%20Reverse%20Integer.py)|.|
 |19|Remove Nth Node From End of List|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0019%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0019%20Remove%20Nth%20Node%20From%20End%20of%20List.py)|[19 Remove Nth Node From End of List](https://tinky2013.github.io/2018/01/09/Leetcode-19-Remove-Nth-Node-From-End-of-List/)|
