@@ -26,6 +26,8 @@ The solution I already have:
 |26|Remove Duplicates from Sorted Array|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0026%20Remove%20Duplicates%20from%20Sorted%20Array.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0026%20Remove%20Duplicates%20from%20Sorted%20Array.py)|
 |27|Remove Element|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0027%20Remove%20Element.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0027%20Remove%20Element.py)|
 |66|Plus One|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0066%20Plus%20One.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0066%20Plus%20One.py)|
+|83|Remove Duplicates from Sorted List|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0083%20Remove%20Duplicates%20from%20Sorted%20List.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0083%20Remove%20Duplicates%20from%20Sorted%20List.py)|
+|86|Partition List|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0086%20Partition%20List.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0086%20Partition%20List.py)|
 
 
 
