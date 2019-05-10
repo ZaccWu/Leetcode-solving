@@ -15,5 +15,6 @@ The links are as follows:
 * [621 Task Scheduler](https://tinky2013.github.io/2018/07/07/Leetcode-621-Task-Scheduler/)
 
 The solution I already have:
+
 -|-
-1 Two Sum|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0001%20Two%20Sum.cpp)、Python(https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0001%20Two%20Sum.py)
+1 Two Sum|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0001%20Two%20Sum.cpp)/[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0001%20Two%20Sum.py)
