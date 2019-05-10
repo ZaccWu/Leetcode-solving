@@ -16,5 +16,5 @@ The links are as follows:
 
 The solution I already have:
 
--|-
-1 Two Sum|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0001%20Two%20Sum.cpp)/[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0001%20Two%20Sum.py)
+|-|-|
+|1 Two Sum|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0001%20Two%20Sum.cpp)/[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0001%20Two%20Sum.py)|
