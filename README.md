@@ -1,7 +1,7 @@
 # Leetcode-solving
 Here are the solution of the problems on LEETCODE, the code are in the lab and detailed description as well as dynamicgraphical explation will be showed in my blog!
 The links are as follows:
-* [19 Remove Nth Node From End of List](https://tinky2013.github.io/2018/01/09/Leetcode-19-Remove-Nth-Node-From-End-of-List/)
+* 
 * [66 Plus One](https://tinky2013.github.io/2018/01/20/Leetcode-66-Plus-One/)
 * [86 Partition List](https://tinky2013.github.io/2018/01/26/Leetcode-86-Partition-List/)
 * [94 Binary Tree Inorder Traversal](https://tinky2013.github.io/2018/01/29/Leetcode-94-Binary-Tree-Inorder-Traversal/)
@@ -16,6 +16,7 @@ The links are as follows:
 
 The solution I already have:
 
-|Index|Name|Code|
-|-|-|-|
-|1|Two Sum|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0001%20Two%20Sum.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0001%20Two%20Sum.py)|
+|Index|Name|Code|Blog Link|
+|-|-|-|-|
+|1|Two Sum|[C](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0001%20Two%20Sum.cpp),[Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/code/0001%20Two%20Sum.py)||
+|19|Remove Nth Node From End of List||[19 Remove Nth Node From End of List](https://tinky2013.github.io/2018/01/09/Leetcode-19-Remove-Nth-Node-From-End-of-List/)|
