@@ -11,7 +11,7 @@
 
 
 class Solution(object):
-    def minArray(self, numbers):
+    def findMin(self, numbers):
         """
         :type numbers: List[int]
         :rtype: int
