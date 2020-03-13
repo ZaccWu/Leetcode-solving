@@ -17,4 +17,5 @@ Providing solutions for interview. The subjects are from leetcode and will help 
 * 剑指05 替换空格 [Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/Python/JZ05%20%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.py), [C](https://github.com/Tinky2013/Leetcode-solving/blob/master/C%26C%2B%2B/JZ05%20%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.cpp)
 * 剑指06 从头到尾打印链表 [Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/Python/JZ06%20%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.py)
 * 剑指10B 青蛙跳台阶问题 [Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/Python/JZ10B%20%E9%9D%92%E8%9B%99%E8%B7%B3%E5%8F%B0%E9%98%B6%E9%97%AE%E9%A2%98.py)
+* 剑指13 机器人的运动范围 [C](https://github.com/Tinky2013/Leetcode-solving/blob/master/C%26C%2B%2B/JZ13%20%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4.cpp)
 * 剑指17 打印从1到最大的n位数 [Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/Python/JZ17%20%E6%89%93%E5%8D%B0%E4%BB%8E1%E5%88%B0%E6%9C%80%E5%A4%A7%E7%9A%84n%E4%BD%8D%E6%95%B0.py)
