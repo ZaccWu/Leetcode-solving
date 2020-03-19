@@ -1,13 +1,21 @@
+'''
+输入两个递增排序的链表，合并这两个链表并使新链表中的节点仍然是递增排序的。
+示例1：
+输入：1->2->4, 1->3->4
+输出：1->1->2->3->4->4
+'''
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
 #         self.val = x
 #         self.next = None
 
+# 如果新建一个链表，就可以比较容易用迭代方法
 # iteratively
 class Solution:
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
-        merge=cur=ListNode(0);
+        merge=cur=ListNode(0); #注意保存头结点位置
         while l1 and l2:
             if l1.val < l2.val:
                 cur.next=l1
