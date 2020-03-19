@@ -4,6 +4,7 @@ Providing solutions for interview. The subjects are from leetcode and will help 
 
 ## Leetcode
 * 0050 数值的整数次方 [C++](https://github.com/Tinky2013/Leetcode-solving/blob/master/C%26C%2B%2B/0050%20%20%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.cpp) (剑指16)
+* 0065 有效数字 [C++](https://github.com/Tinky2013/Leetcode-solving/blob/master/C%26C%2B%2B/0065%20%E6%9C%89%E6%95%88%E6%95%B0%E5%AD%97.cpp) (剑指20)
 * 0079 单词搜索 [C](https://github.com/Tinky2013/Leetcode-solving/blob/master/C%26C%2B%2B/0079%20%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.cpp) (剑指12)
 * 0105  从前序与中序遍历序列构造二叉树 [Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/Python/0105%20%20%E4%BB%8E%E5%89%8D%E5%BA%8F%E4%B8%8E%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.py) (剑指07)
 * 0154 寻找旋转排序数组中的最小值 II [Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/Python/0154%20%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC%20II.py), [C](https://github.com/Tinky2013/Leetcode-solving/blob/master/C%26C%2B%2B/0154%20%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC%20II.cpp) (剑指09)
