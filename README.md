@@ -3,6 +3,7 @@
 Providing solutions for interview. The subjects are from leetcode and will help you master basic data structure knowledge and algorithm solving method. This part is also the record of my coding.
 
 ## Leetcode
+* 0021 合并链表 [C](https://github.com/Tinky2013/Leetcode-solving/blob/master/C&C++/0021%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8.cpp), [Python](https://github.com/Tinky2013/Leetcode-solving/blob/master/Python/0021%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8.py) (剑指25)
 * 0050 数值的整数次方 [C++](https://github.com/Tinky2013/Leetcode-solving/blob/master/C%26C%2B%2B/0050%20%20%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.cpp) (剑指16)
 * 0065 有效数字 [C++](https://github.com/Tinky2013/Leetcode-solving/blob/master/C%26C%2B%2B/0065%20%E6%9C%89%E6%95%88%E6%95%B0%E5%AD%97.cpp) (剑指20)
 * 0079 单词搜索 [C](https://github.com/Tinky2013/Leetcode-solving/blob/master/C%26C%2B%2B/0079%20%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2.cpp) (剑指12)
